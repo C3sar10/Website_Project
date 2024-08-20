@@ -1,0 +1,1 @@
+This is one of my first projects that I made using all html coding to build a multiple page website based on the popular singing group known as "Grupo Frontera". It is a work in progress as I intend to go back and add more styling and elements using CSS and JavaScript that I have learned since. 
